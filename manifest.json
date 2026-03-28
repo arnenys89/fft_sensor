@@ -1,0 +1,8 @@
+{
+  "domain": "fft_sensor",
+  "name": "FFT Sensor",
+  "version": "1.0.0",
+  "dependencies": [],
+  "codeowners": ["@yourgithub"],
+  "requirements": ["numpy"]
+}
